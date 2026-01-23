@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: bc49b706d6a1ff74f9f6c291296930df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1786097636857869707
+    second: bushStill1_0
+  - first:
+      213: 2719095953600971301
+    second: bushStill1_1
+  - first:
+      213: -1097150347905130978
+    second: bushStill1_2
+  - first:
+      213: 1164943690648989326
+    second: bushStill1_3
+  - first:
+      213: 6678089124368954658
+    second: bushStill1_4
+  - first:
+      213: 6928464468965712807
+    second: bushStill1_5
+  - first:
+      213: -4554719909798533510
+    second: bushStill1_6
+  - first:
+      213: 3235217063385785322
+    second: bushStill1_7
+  - first:
+      213: -7687411702291743836
+    second: bushStill1_8
+  - first:
+      213: -2495567409698701709
+    second: bushStill1_9
+  - first:
+      213: -8771829186622393754
+    second: bushStill1_10
+  - first:
+      213: 7484405912924978463
+    second: bushStill1_11
+  - first:
+      213: 7168842373416500013
+    second: bushStill1_12
+  - first:
+      213: -6208793089693542594
+    second: bushStill1_13
+  - first:
+      213: 4822581031229585543
+    second: bushStill1_14
+  - first:
+      213: -7161863268443818636
+    second: bushStill1_15
+  - first:
+      213: -5500318591730622096
+    second: bushStill1_16
+  - first:
+      213: 1310162568270592445
+    second: bushStill1_17
+  - first:
+      213: 5165207032685721294
+    second: bushStill1_18
+  - first:
+      213: 9057660057910597991
+    second: bushStill1_19
+  - first:
+      213: 9134417952374784560
+    second: bushStill1_20
+  - first:
+      213: -4740218195294716031
+    second: bushStill1_21
+  - first:
+      213: -3249774147940373892
+    second: bushStill1_22
+  - first:
+      213: 7751758895128193052
+    second: bushStill1_23
+  - first:
+      213: 2350565050947797590
+    second: bushStill1_24
+  - first:
+      213: -1910619964526477666
+    second: bushStill1_25
+  - first:
+      213: 6290416387685939855
+    second: bushStill1_26
+  - first:
+      213: -6428816031171327783
+    second: bushStill1_27
+  - first:
+      213: -216376199952538486
+    second: bushStill1_28
+  - first:
+      213: -8352512458576576239
+    second: bushStill1_29
+  - first:
+      213: -4724323243097013008
+    second: bushStill1_30
+  - first:
+      213: -3689385613448830456
+    second: bushStill1_31
+  - first:
+      213: -5229343135677002863
+    second: bushStill1_32
+  - first:
+      213: 5659148077350445925
+    second: bushStill1_33
+  - first:
+      213: -4981726351565994385
+    second: bushStill1_34
+  - first:
+      213: 6231120316443666347
+    second: bushStill1_35
+  - first:
+      213: -8188046330317662921
+    second: bushStill1_36
+  - first:
+      213: 6793681901693882309
+    second: bushStill1_37
+  - first:
+      213: 1320488011088577365
+    second: bushStill1_38
+  - first:
+      213: -2163609051789828174
+    second: bushStill1_39
+  - first:
+      213: -560050916377383952
+    second: bushStill1_40
+  - first:
+      213: -3884617012857552369
+    second: bushStill1_41
+  - first:
+      213: 4874158607619401810
+    second: bushStill1_42
+  - first:
+      213: 177404139408716695
+    second: bushStill1_43
+  - first:
+      213: 114567519645266187
+    second: bushStill1_44
+  - first:
+      213: 6947498192120823683
+    second: bushStill1_45
+  - first:
+      213: -2877785150215156903
+    second: bushStill1_46
+  - first:
+      213: 8957649996757236165
+    second: bushStill1_47
+  - first:
+      213: -4090088083066358504
+    second: bushStill1_48
+  - first:
+      213: -7153967082606274549
+    second: bushStill1_49
+  - first:
+      213: 4700980029484376305
+    second: bushStill1_50
+  - first:
+      213: -4441672238985450800
+    second: bushStill1_51
+  - first:
+      213: -3967109197540606582
+    second: bushStill1_52
+  - first:
+      213: -4457883060056540592
+    second: bushStill1_53
+  - first:
+      213: 7018475960853861152
+    second: bushStill1_54
+  - first:
+      213: 2191073110036572456
+    second: bushStill1_55
+  - first:
+      213: -7659297247757867184
+    second: bushStill1_56
+  - first:
+      213: 6265881076480019769
+    second: bushStill1_57
+  - first:
+      213: -6367797933313149410
+    second: bushStill1_58
+  - first:
+      213: -3368734439846896285
+    second: bushStill1_59
+  - first:
+      213: -3438469893861552171
+    second: bushStill1_60
+  - first:
+      213: -5492945650085542535
+    second: bushStill1_61
+  - first:
+      213: 3625520781845490549
+    second: bushStill1_62
+  - first:
+      213: 6613688008895896365
+    second: bushStill1_63
+  - first:
+      213: -6102236100125713169
+    second: bushStill1_64
+  - first:
+      213: -8453318178453644742
+    second: bushStill1_65
+  - first:
+      213: -2293908459928358105
+    second: bushStill1_66
+  - first:
+      213: -8218070015374411219
+    second: bushStill1_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.6725654, y: 0.573565}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 501, y: 199, z: 166, w: 103}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bushStill1_0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 404
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f31b665e79c810800000000000000
+      internalID: 1786097636857869707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 412
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52286980d5b2cb520800000000000000
+      internalID: 2719095953600971301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 416
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1bef429326c0f0800000000000000
+      internalID: -1097150347905130978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 396
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e27705d16ba2010800000000000000
+      internalID: 1164943690648989326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 385
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22539643da65dac50800000000000000
+      internalID: 6678089124368954658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 396
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ed97d9b9d62060800000000000000
+      internalID: 6928464468965712807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 387
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762f0dbf526ac0c0800000000000000
+      internalID: -4554719909798533510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_7
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 383
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3646a37ccc5ec20800000000000000
+      internalID: 3235217063385785322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_8
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 378
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab38b259c3d05590800000000000000
+      internalID: -7687411702291743836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 353
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37efdd7b9a6fd5dd0800000000000000
+      internalID: -2495567409698701709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 370
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f7f474d3344680800000000000000
+      internalID: -8771829186622393754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 360
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df9b21683fdd760800000000000000
+      internalID: 7484405912924978463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 358
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b324e0828dc7360800000000000000
+      internalID: 7168842373416500013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 356
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379aec949fe5d9a0800000000000000
+      internalID: -6208793089693542594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 353
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f9f295ef3de240800000000000000
+      internalID: 4822581031229585543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 330
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475fc727d43fb9c90800000000000000
+      internalID: -7161863268443818636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716b6cf161faa3b0800000000000000
+      internalID: -5500318591730622096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 340
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db938cf0ae1ae2210800000000000000
+      internalID: 1310162568270592445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 313
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f4960e608ea740800000000000000
+      internalID: 5165207032685721294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 322
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769510845d543bd70800000000000000
+      internalID: 9057660057910597991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 324
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03200414bb8f3ce70800000000000000
+      internalID: 9134417952374784560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_21
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 335
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7d978aac573eb0800000000000000
+      internalID: -4740218195294716031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 335
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a24c761ab76e2d0800000000000000
+      internalID: -3249774147940373892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 306
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18279005a7c39b60800000000000000
+      internalID: 7751758895128193052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 305
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520133c572ee9020800000000000000
+      internalID: 2350565050947797590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 314
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e31a1e34d1c75e0800000000000000
+      internalID: -1910619964526477666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 318
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af055606c0c4750800000000000000
+      internalID: 6290416387685939855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_27
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 307
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d842b781e148c6a0800000000000000
+      internalID: -6428816031171327783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 293
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84eaf71ef64ffcf0800000000000000
+      internalID: -216376199952538486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_29
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 303
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111c4842c2ae51c80800000000000000
+      internalID: -8352512458576576239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_30
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 310
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c41b7a05df6eb0800000000000000
+      internalID: -4724323243097013008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_31
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 311
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80222fee45bacccc0800000000000000
+      internalID: -3689385613448830456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 317
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b4855df14ad67b0800000000000000
+      internalID: -5229343135677002863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 280
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563eec16135598e40800000000000000
+      internalID: 5659148077350445925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 283
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c4be074a5ddab0800000000000000
+      internalID: -4981726351565994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 299
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72856f9e2697650800000000000000
+      internalID: 6231120316443666347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73599f4ae373e5e80800000000000000
+      internalID: -8188046330317662921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_37
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 280
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfc673f1b1084e50800000000000000
+      internalID: 6793681901693882309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 294
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c81f89d0535210800000000000000
+      internalID: 1320488011088577365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 298
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5f3bd70159f1e0800000000000000
+      internalID: -2163609051789828174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_40
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 254
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba139a8ac4a38f0800000000000000
+      internalID: -560050916377383952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 275
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02cf2c8861171ac0800000000000000
+      internalID: -3884617012857552369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_42
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 271
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2582112ed6d74a340800000000000000
+      internalID: 4874158607619401810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 264
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f327ff14467200800000000000000
+      internalID: 177404139408716695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_44
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 266
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f0475d86079100800000000000000
+      internalID: 114567519645266187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 257
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb70bdbc87a6060800000000000000
+      internalID: 6947498192120823683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_46
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 266
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b088d27ad0018d0800000000000000
+      internalID: -2877785150215156903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 261
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97efe5637ff4c70800000000000000
+      internalID: 8957649996757236165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 276
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81575c40f861d37c0800000000000000
+      internalID: -4090088083066358504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_49
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 263
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085a6a77d008bc90800000000000000
+      internalID: -7153967082606274549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 236
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02f911e6c3d3140800000000000000
+      internalID: 4700980029484376305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_51
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 246
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daee82b1a20c52c0800000000000000
+      internalID: -4441672238985450800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_52
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 248
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d3867143ff1f8c0800000000000000
+      internalID: -3967109197540606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_53
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 247
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a391bc9fa6222c0800000000000000
+      internalID: -4457883060056540592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_54
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 247
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023105f63b2a66160800000000000000
+      internalID: 7018475960853861152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 222
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e3a08261486e10800000000000000
+      internalID: 2191073110036572456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 230
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057e34edbb5b4b590800000000000000
+      internalID: -7659297247757867184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 215
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0f6814a1e4f650800000000000000
+      internalID: 6265881076480019769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_58
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 214
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163767848901a7a0800000000000000
+      internalID: -6367797933313149410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 223
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1d4210e9df31d0800000000000000
+      internalID: -3368734439846896285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_60
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 219
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc18d69d91840d0800000000000000
+      internalID: -3438469893861552171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_61
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 222
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975cf1cb80325c3b0800000000000000
+      internalID: -5492945650085542535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 232
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b62b731ff605230800000000000000
+      internalID: 3625520781845490549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_63
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 201
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1089043a88cb50800000000000000
+      internalID: 6613688008895896365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_64
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 198
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec11741990805ba0800000000000000
+      internalID: -6102236100125713169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_65
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 211
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1bef77e7cfaa80800000000000000
+      internalID: -8453318178453644742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_66
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 205
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f4bac8666a20e0800000000000000
+      internalID: -2293908459928358105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 204
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab15abcdc83fd80800000000000000
+      internalID: -8218070015374411219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_68
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 439
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1cdcf40a3ff74d9370b8f8f0355cb
+      internalID: -1255927707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushStill1_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 199
+        width: 293
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -144.5, y: -117}
+        - {x: 146.5, y: -119}
+        - {x: 145.5, y: 118}
+        - {x: -146.5, y: 119}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1d20cd7beb5341a247b80b2bdc504
+      internalID: 1657118904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 288d42b1d695a4246a8507425cb7a1ca
+    internalID: -575843188
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bushStill1_0: 1786097636857869707
+      bushStill1_1: 2719095953600971301
+      bushStill1_10: -8771829186622393754
+      bushStill1_11: 7484405912924978463
+      bushStill1_12: 7168842373416500013
+      bushStill1_13: -6208793089693542594
+      bushStill1_14: 4822581031229585543
+      bushStill1_15: -7161863268443818636
+      bushStill1_16: -5500318591730622096
+      bushStill1_17: 1310162568270592445
+      bushStill1_18: 5165207032685721294
+      bushStill1_19: 9057660057910597991
+      bushStill1_2: -1097150347905130978
+      bushStill1_20: 9134417952374784560
+      bushStill1_21: -4740218195294716031
+      bushStill1_22: -3249774147940373892
+      bushStill1_23: 7751758895128193052
+      bushStill1_24: 2350565050947797590
+      bushStill1_25: -1910619964526477666
+      bushStill1_26: 6290416387685939855
+      bushStill1_27: -6428816031171327783
+      bushStill1_28: -216376199952538486
+      bushStill1_29: -8352512458576576239
+      bushStill1_3: 1164943690648989326
+      bushStill1_30: -4724323243097013008
+      bushStill1_31: -3689385613448830456
+      bushStill1_32: -5229343135677002863
+      bushStill1_33: 5659148077350445925
+      bushStill1_34: -4981726351565994385
+      bushStill1_35: 6231120316443666347
+      bushStill1_36: -8188046330317662921
+      bushStill1_37: 6793681901693882309
+      bushStill1_38: 1320488011088577365
+      bushStill1_39: -2163609051789828174
+      bushStill1_4: 6678089124368954658
+      bushStill1_40: -560050916377383952
+      bushStill1_41: -3884617012857552369
+      bushStill1_42: 4874158607619401810
+      bushStill1_43: 177404139408716695
+      bushStill1_44: 114567519645266187
+      bushStill1_45: 6947498192120823683
+      bushStill1_46: -2877785150215156903
+      bushStill1_47: 8957649996757236165
+      bushStill1_48: -4090088083066358504
+      bushStill1_49: -7153967082606274549
+      bushStill1_5: 6928464468965712807
+      bushStill1_50: 4700980029484376305
+      bushStill1_51: -4441672238985450800
+      bushStill1_52: -3967109197540606582
+      bushStill1_53: -4457883060056540592
+      bushStill1_54: 7018475960853861152
+      bushStill1_55: 2191073110036572456
+      bushStill1_56: -7659297247757867184
+      bushStill1_57: 6265881076480019769
+      bushStill1_58: -6367797933313149410
+      bushStill1_59: -3368734439846896285
+      bushStill1_6: -4554719909798533510
+      bushStill1_60: -3438469893861552171
+      bushStill1_61: -5492945650085542535
+      bushStill1_62: 3625520781845490549
+      bushStill1_63: 6613688008895896365
+      bushStill1_64: -6102236100125713169
+      bushStill1_65: -8453318178453644742
+      bushStill1_66: -2293908459928358105
+      bushStill1_67: -8218070015374411219
+      bushStill1_68: -1255927707
+      bushStill1_69: 1657118904
+      bushStill1_7: 3235217063385785322
+      bushStill1_8: -7687411702291743836
+      bushStill1_9: -2495567409698701709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
